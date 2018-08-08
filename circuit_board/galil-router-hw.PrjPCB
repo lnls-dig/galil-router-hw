@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XCTWRJVK
 
 [Document3]
-DocumentPath=..\altium-library\PcbLib\galil-router-fab.PCBDwf
+DocumentPath=..\..\altium-library\PcbLib\galil-router-fab.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=galil-router-asm.PCBDwf
+DocumentPath=..\galil-router-asm.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,11 +123,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for galil-router-hw\Design Rule Check - galil-router.html
+DocumentPath=..\Project Outputs for galil-router-hw\Design Rule Check - galil-router.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\DRC\galil-router.html
+DocumentPath=..\Project Outputs for Free Documents\DRC\galil-router.html
 DItemRevisionGUID=
 
 [Configuration1]
