@@ -1,0 +1,21 @@
+# Altium files
+*.schDocPreview
+History/
+*_Previews
+*.LOG
+*Project\ Outputs*
+*Project\ Logs*
+*gerbers*
+*.Dat
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+#Temp files
+#*
+*#
+*~
+
+# Folder config file
+Desktop.ini
