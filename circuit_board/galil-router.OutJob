@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=galil-router.OutJob
+Name=Job Group
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -157,7 +157,7 @@ Configuration10_Item1=CaptionAsName
 Configuration10_Name2=Filter
 Configuration10_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A2400000001000000000003000000596573070000004D6F756E7465640112030000005900650073000000
 Configuration10_Name3=General
-Configuration10_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=True|DatabasePriority=True|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=E:\Onedrive\CNPEM - Centro Nacional de Pesquisa em Energia e Materiais\Daniel de Oliveira Tavares - Grupo DIG\Projects\Templates Altium\Altium_Template_BOM_DIG.xlsx|BatchMode=5|FormWidth=2662|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
+Configuration10_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=True|DatabasePriority=True|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=E:\Onedrive\CNPEM - Centro Nacional de Pesquisa em Energia e Materiais\Daniel de Oliveira Tavares - Grupo DIG\Projects\Templates Altium\Altium_Template_BOM_DIG.xlsx|BatchMode=5|FormWidth=1337|FormHeight=659|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
 Configuration10_Name4=GroupOrder
 Configuration10_Item4=Part Number=True
 Configuration10_Name5=OutputConfigurationParameter1
